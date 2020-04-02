@@ -5,11 +5,11 @@ Lifted by Bob Hermman to mostly tweak for my own use.
 
 ## To Run
 
-    $ clj -m cpomo.main
+    $ clj -m cpomo.core
 
 
 
-------------
+--- Original Readme ------------
 
 Simple tool for pomodoro technique. My first attempt to write a Clojure program :)
 
