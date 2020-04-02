@@ -26,7 +26,7 @@
 
 (defn format-pomodoro-str [seconds]
   (let [mins (int (/ seconds 60)) secs (mod seconds 60)]
-    (format "%dm:%ds" mins secs)))
+    (format "%dm" mins secs)))
 
 (defn print-pomodoro [{text :text}]
   (println text))

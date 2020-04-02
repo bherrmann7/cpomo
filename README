@@ -1,4 +1,15 @@
+
 # pomo
+
+Lifted by Bob Hermman to mostly tweak for my own use.
+
+## To Run
+
+    $ clj -m cpomo.main
+
+
+
+------------
 
 Simple tool for pomodoro technique. My first attempt to write a Clojure program :)
 
@@ -7,3 +18,5 @@ Simple tool for pomodoro technique. My first attempt to write a Clojure program 
 Copyright (C) 2011 Jani Arvonen
 
 Distributed under the Eclipse Public License, the same as Clojure.
+
+----------
